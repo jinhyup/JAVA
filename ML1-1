@@ -1,0 +1,43 @@
+1-1
+비지도 알고리즘(unsuperviser learning)
+(데이터가 많이 있는데, 알아서 구조를 찾아줘. 알아서 클러스터링 해줘.
+데이터 집합의 예시에 대한 정답을 주지 않음) 
+클러스터링 알고리즘(clusters)
+​
+대규모 컴퓨터 클러스터
+(organize computing clusters)
+소셜네트워크 분석
+(social network analysis)
+시장 세분화
+(market segmentation)
+천문학 데이터 분석
+(Astronomical data analysis)
+​
+또 다른 예 - 칵테일파티?
+동시에 사람들이 얘기해서 들리지 않는 경우도 있음
+마이크 두개를 두자. 사람도 두명
+마이크 1은 스피커1,
+마이크 2는 스피커 2
+소리를 지울 수 있음. 알고리즘을 이용해서
+​
+ 수업에서 Octave  프로그램 사용할 예정
+Octave 이용해서 학습알고리즘을 간단히 나타낼 수 있음
+실리콘 벨리에서 Octave 이용해서 먼저 프로토타입 구현한 다음 C나 java로 옮김
+(시간을 단축시킨다)
+​
+Unsupervised Learning
+Unsupervised learning allows us to approach problems with little or no idea what our results should look like. We can derive structure from data where we don't necessarily know the effect of the variables.
+
+We can derive this structure by clustering the data based on relationships among the variables in the data.
+
+With unsupervised learning there is no feedback based on the prediction results.
+
+Example:
+
+Clustering: Take a collection of 1,000,000 different genes, and find a way to automatically group these genes into groups that are somehow similar or related by different variables, such as lifespan, location, roles, and so on.
+
+Non-clustering: The "Cocktail Party Algorithm", allows you to find structure in a chaotic environment. (i.e. identifying individual voices and music from a mesh of sounds at a cocktail party).​
+
+, 역할 등과 같은 다른 변수들에 의해 어느 정도 유사하거나 관련이 있는 그룹으로 자동 분류하는 방법을 찾아보세요.
+
+비클러스터링: 칵테일 파티 알고리즘(Cocktail Party Algorithm)은 혼란스러운 환경에서 구조를 찾을 수 있게 해준다.​
